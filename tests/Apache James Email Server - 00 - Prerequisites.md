@@ -30,6 +30,13 @@ When you see *email@out* , use any outside email. (E.g gmail account)
     1. redir1-2 -> account1@foilen-lab.com account2@foilen-lab.com
     1. rediro -> email@out
     1. redir1-o -> account1@foilen-lab.com email@out
+1. Create domain: https://infra.foilen-lab.com/pluginresources/create/Email%20Domain
+    1. Domain Name: foilen-lab.info
+    1. MX/IMAP/POP3 Domain Name: mail.foilen-lab.info
+    1. SMTP/IMAP/POP3 Certificate: mail.foilen-lab.info
+    1. Email Relay (Optional): Keep empty
+1. Create accounts: https://infra.foilen-lab.com/pluginresources/create/Email%20Account
+    1. account1 foilen-lab.info
 
 # Expected results
 
